@@ -29,11 +29,11 @@ This project performs **Exploratory Data Analysis (EDA)** on the **Google Play S
 ## Installation & Setup  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/Google-Play-Store-EDA.git
+   git clone https://github.com/gpreddy172/Google-Play-Store-Apps-Analysis-EDA-.git
    ```
 2. Navigate to the project folder:  
    ```bash
-   cd Google-Play-Store-Apps-Analysis-EDA
+   cd Google-Play-Store-Apps-Analysis-EDA-
    ```
 3. Install dependencies:  
    ```bash
@@ -41,7 +41,7 @@ This project performs **Exploratory Data Analysis (EDA)** on the **Google Play S
    ```
 4. Open the Jupyter Notebook:  
    ```bash
-   jupyter notebook Google_Play_Store_EDA.ipynb
+   jupyter notebook Google-Play-Store-Apps-Analysis-EDA-.ipynb
    ```
 5. Run the analysis and explore insights!  
 
@@ -50,7 +50,7 @@ This project performs **Exploratory Data Analysis (EDA)** on the **Google Play S
 - Expand dataset to **include more recent Play Store data** for trend comparison.  
 
 ## License  
-This project is for educational purposes. Data is sourced from Kaggle and remains the property of its original creators.  
+This project is for practice purposes. Data is sourced from Kaggle and remains the property of its original creators.  
 
 ---
 
