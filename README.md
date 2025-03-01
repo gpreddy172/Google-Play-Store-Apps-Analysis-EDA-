@@ -23,6 +23,7 @@ This project performs **Exploratory Data Analysis (EDA)** on the **Google Play S
  ├── 📄 Google_Play_Store_Project_Part-1.ipynb  # Jupyter Notebook with code & analysis  
  ├── 📄 Google_Play_Store_Project_Part-2.ipynb  # Jupyter Notebook with code & analysis 
  ├── 📄 googleplaystore.csv    # Raw Dataset  
+ 
  ├── 📄 README.md             #  Project documentation
  └── 📄 requirements.txt              # Dependencies  
 
