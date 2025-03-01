@@ -19,7 +19,7 @@ This project performs **Exploratory Data Analysis (EDA)** on the **Google Play S
 - Visualized key insights to understand **what makes an app successful** on the Play Store.  
 
 ## Project Structure  
-📂 Google-Play-Store-EDA  
+📂 Google-Play-Store-Apps-Analysis-EDA- 
  ├── 📄 Google_Play_Store_Project_Part-1.ipynb  # Jupyter Notebook with code & analysis  
  ├── 📄 Google_Play_Store_Project_Part-2.ipynb  # Jupyter Notebook with code & analysis   
  ├── 📄 googleplaystore.csv  # Raw Dataset
